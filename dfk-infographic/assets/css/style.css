@@ -20673,7 +20673,7 @@ div.tagsinput {
     padding-top: 70px; }
     @media (max-width: 992px) {
       .sidebar .nav {
-        padding-top: 0; } }
+         } }
     .sidebar .nav .nav-item {
       -webkit-transition-duration: 0.25s;
       -moz-transition-duration: 0.25s;
